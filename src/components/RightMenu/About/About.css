@@ -1,0 +1,19 @@
+.about > h1, p {
+    color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.about > .home-btn {
+    cursor: pointer;
+    color: #0047ab;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+p {
+    display: block;
+    font-weight: 600;
+}
