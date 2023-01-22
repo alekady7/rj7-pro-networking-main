@@ -1,4 +1,4 @@
-.about > h1, p {
+.about__us > h1, p {
     color: black;
     justify-content: center;
     align-items: center;
@@ -6,11 +6,18 @@
 
 
 
-.about > .home-btn {
+.about__us > .home-btn {
     cursor: pointer;
     color: #0047ab;
     font-size: 18px;
     text-decoration: none;
+}
+
+.about__us {
+    background-color: rgb(180, 179, 179);
+    padding: 40px 80px;
+    margin: 2% 15%;
+    justify-content: center;
 }
 
 p {
